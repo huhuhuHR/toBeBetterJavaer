@@ -1,0 +1,31 @@
+repo_name: huhuhuHR/toBeBetterJavaer
+report_id: 8fcf539af598e315e4291a7278a8cc88
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T01:26:38+00:00'
+requested_by: itwanger
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/huhuhuHR/toBeBetterJavaer
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/huhuhuHR/toBeBetterJavaer
+  detection_source: Repo Metadata
